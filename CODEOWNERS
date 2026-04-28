@@ -1,3 +1,2 @@
-# All files require review from @invision-fintech/core by default.
-# Override below for specific paths if needed.
-* @invision-fintech/core
+# wengchan leads this project; @invision-fintech/core gets oversight on all PRs.
+* @wengchan @invision-fintech/core
