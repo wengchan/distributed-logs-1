@@ -1,6 +1,6 @@
 # distributed-logs
 
-Distributed log aggregation. An [invision-fintech](https://github.com/invision-fintech) project, lead by [@wengchan](https://github.com/wengchan).
+Distributed log aggregation. An [invision-fintech](https://github.com/invision-fintech) project, lead by [@wengchan](https://github.com/wengchan/distributed-logs).
 
 > Status: early development. APIs and design are unstable.
 
